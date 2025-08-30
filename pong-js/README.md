@@ -2,4 +2,4 @@
 Pong game implemented with JavaScript.
 
 Try it out!
-(https://gdube.github.io/pong-js/)
+(https://neerav.github.io/pong-js/)
