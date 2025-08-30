@@ -1,0 +1,14 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  width: 900px;
+  height: 550px;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+  flex-direction: column;
+  align-items: center;
+}
